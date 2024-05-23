@@ -3,6 +3,7 @@
 // Verify that the Set only keeps unique values by logging it to the console.
 
 const uniqueNumbers = new Set();
+
 // Your code here
 
 console.log(uniqueNumbers);

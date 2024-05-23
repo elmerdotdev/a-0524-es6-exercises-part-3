@@ -1,10 +1,10 @@
 // Exercise 2: Rest Operator
-// Instructions: Write a function named `sum` that takes any number of arguments and returns their sum. 
+// Instructions: Write a function named `subtract` that takes any number of arguments and returns their difference. 
 // Use the rest operator to handle the variable number of arguments. 
 // Test your function with different numbers of arguments.
 
-function sum(...numbers) {
+function subtract(...numbers) {
   // Your code here
 }
 
-console.log(sum(1, 2, 3)); // Example usage
+console.log(subtract(1, 2, 3)); // Example usage
