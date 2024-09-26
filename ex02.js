@@ -7,4 +7,4 @@ function subtract(...numbers) {
   // Your code here
 }
 
-console.log(subtract(1, 2, 3)); // Example usage
+console.log(subtract(10, 2, 3)); // Example usage
